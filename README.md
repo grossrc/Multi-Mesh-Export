@@ -1,6 +1,7 @@
 # Multi Mesh Export – Fusion 360 Add-in
-
 Batch-export multiple STL files from a Fusion 360 design in one operation.
+
+![Multi Mesh Export Demo](/resources/demo.gif)
 
 ## Features
 - **Batch Export:** Select multiple bodies or use "Select All" to export them at once.
@@ -19,7 +20,7 @@ Batch-export multiple STL files from a Fusion 360 design in one operation.
 ## Installation (option B)
 1. Clone the repo and extract the folder.
 2. In Fusion go to `Utilities > Add-Ins` and click the icon. It should look like this:
-![alt text](/resources/ScreenshotA.png)
+![alt text](/resources/ScreenshotB.png)
 3. In the Add-in window, click the plus symbol. Then click `Script or add-in from device` and select the program folder.
 4. Click the dropdown on utilities and run the program in your file that you want to export.
-![alt text](/resources/ScreenshotB.png)
+![alt text](/resources/ScreenshotA.png)
