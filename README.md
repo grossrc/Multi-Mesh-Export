@@ -2,7 +2,7 @@
 Batch-export multiple STL files from a Fusion 360 design in one operation.
 
 ![alt text](/resources/ScreenshotC.png)
-![Multi Mesh Export Demo](/resources/demo.gif)
+![Multi Mesh Export Demo](/resources/Demo.gif)
 
 ## Features
 - **Batch Export:** Select multiple bodies or use "Select All" to export them at once.
