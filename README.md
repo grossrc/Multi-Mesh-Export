@@ -1,6 +1,7 @@
 # Multi Mesh Export – Fusion 360 Add-in
 Batch-export multiple STL files from a Fusion 360 design in one operation.
 
+![alt text](/resources/ScreenshotC.png)
 ![Multi Mesh Export Demo](/resources/demo.gif)
 
 ## Features
